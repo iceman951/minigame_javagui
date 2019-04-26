@@ -1,2 +1,5 @@
 # minigame_javagui
-javac *.
+=================
+javac *.java
+java ChooseJob
+=================
